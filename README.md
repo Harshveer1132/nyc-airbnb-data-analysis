@@ -36,6 +36,7 @@ The raw Airbnb dataset was cleaned and prepared in Excel and then analyzed in Po
 
 ![Dashboaard](images/dashboard.png)
 
+
 ### Neighbourhood Analysis
 
 ![Neighbourhood Analysis](images/neighbourhood-analysis.png)
