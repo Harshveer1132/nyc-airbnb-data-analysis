@@ -34,7 +34,7 @@ The raw Airbnb dataset was cleaned and prepared in Excel and then analyzed in Po
 
 ### Power BI Dashboard
 
-dashboard.png.png
+![Dashboaard](images/dashboard.png)
 
 ### Neighbourhood Analysis
 
